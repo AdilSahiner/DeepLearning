@@ -1,0 +1,11 @@
+jupyter==1.0.0
+matplotlib==3.3.4
+numpy==1.21.0
+pandas==1.2.2
+scipy==1.6.0
+scikit-learn==0.24.1
+nltk==3.6.6
+urlextract==1.2.0
+seaborn==0.11.2
+torch==1.10.2
+tensorflow==2.7.0
