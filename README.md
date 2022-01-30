@@ -8,6 +8,9 @@ Click on the mybinder badge to start interacting with the code in a separate env
 
 # Usage
 
+Please notice that you need to download the dataset and put it in the data folder in order to run the model locally. The dataset is huge therefore I could not store it directly on github!.
+
+
 In order to run the code, you need to install the dependencies mentioned in requirements.txt. 
 To do this please run `pip install -r requirements.txt` to install all dependencies using pip package manager. 
 
